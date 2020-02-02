@@ -1,4 +1,5 @@
 # calculator
 Calculator with gui (tkinter).
 
-Currently I am working on calculator in my spare time mainly to learn with tkinter
+Simple calculator I made to learn and try first project with tkinter module.
+Calculator is working only with int and not float.
